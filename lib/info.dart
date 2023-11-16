@@ -70,7 +70,7 @@ const info = [
         'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60',
   },
   {
-    'name': 'Pakaya',
+    'name': 'Dimal',
     'message': 'Images by Unsplash',
     'time': '1:00 am',
     'profilePic':

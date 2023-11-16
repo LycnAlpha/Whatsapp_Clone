@@ -29,6 +29,13 @@ class WebScreenLayout extends StatelessWidget {
                 image: DecorationImage(
                     image: AssetImage("assets/backgroundImage.png"),
                     fit: BoxFit.cover)),
+            child: Column(
+              children: [
+                //appbar
+                //chat
+                //chtinput
+              ],
+            ),
           )
         ],
       ),
